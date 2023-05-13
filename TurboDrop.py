@@ -48,7 +48,7 @@ def receive_file(file_path, port):
 
 
 # Send a file
-send_file(r"C:\Users\shubh\Downloads\python-3.8.0-amd64.exe", "192.168.43.65", 8000)
+send_file(r"C:\Users\shubh\Downloads\python-3.8.0-amd64.exe", "192.108.493.605", 8000)
 print("File Sent")
 
 # Receive a file
